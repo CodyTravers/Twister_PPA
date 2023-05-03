@@ -1,0 +1,11 @@
+Package: consoles
+Version: 0.1
+Architecture: all
+Maintainer: Cody Travers
+Filename: ./consoles.deb
+Size: 5924640
+MD5sum: 985ed3bf54bc579e3f03cbb240ce6229
+SHA1: dea14d1985ab511271e576d3313c38c754d0d1cd
+SHA256: 5c155fd8ae8cb5542de677719cd72aac5c21fe6d8285f6097becef6560a6a9e6
+Description: console cores for TwisterFPGA
+

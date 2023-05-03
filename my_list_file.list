@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/Twister_PPA.gpg] https://CodyTravers.github.io/Twister_PPA ./
