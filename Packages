@@ -1,26 +1,4 @@
 Package: twister-arcade
-Version: 20230505
-Architecture: all
-Maintainer: Cody Travers
-Filename: ./twister-arcade_20230505_all.deb
-Size: 1633492
-MD5sum: 7ba83992c3924d026bde14e99a8c3a2e
-SHA1: 2d6bba83baf4658734f62253c38fb7b8b43b4be3
-SHA256: 609057d4d68833c58f77ec970397d320624b89dfbf27ff06d6604502f8892ecb
-Description: Twister arcade cores.
-
-Package: twister-arcade
-Version: 20230506
-Architecture: all
-Maintainer: Cody Travers
-Filename: ./twister-arcade_20230506_all.deb
-Size: 1633884
-MD5sum: a0d6b4afe3147c52d4193cba0796b2a2
-SHA1: 866f86d4aec66eac413ef3c28b03ef5db6f2ddc5
-SHA256: c71786d1846ee8e2b92ff883b3f7596072b971c1ce290260d04a908bf9e45676
-Description: Twister arcade cores.
-
-Package: twister-arcade
 Version: 20230507
 Architecture: all
 Maintainer: Cody Travers
