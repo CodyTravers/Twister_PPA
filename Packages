@@ -14,10 +14,10 @@ Version: 20230506
 Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-arcade_20230506_all.deb
-Size: 1633492
-MD5sum: 3dc31093651d12446f7243d1291fdec7
-SHA1: 73de20218335af1562a7c2043ea8c87749257b09
-SHA256: 66bbaf4c8d600cb2aa94eb1ad38bcd142420b93ee8fc8cdddc24760ad85dfdff
+Size: 1633884
+MD5sum: a0d6b4afe3147c52d4193cba0796b2a2
+SHA1: 866f86d4aec66eac413ef3c28b03ef5db6f2ddc5
+SHA256: c71786d1846ee8e2b92ff883b3f7596072b971c1ce290260d04a908bf9e45676
 Description: Twister arcade cores.
 
 Package: twister-computer
@@ -26,9 +26,9 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-computer_20230505_all.deb
 Size: 917844
-MD5sum: 3d8df90e251e9b12325a312ef6661ea3
-SHA1: 5f80ac948b546d79b414343546b6647e1aace9a7
-SHA256: dfa09bbc6657ed9d3719cf896f321b98641cc827516e4c896cdb942a128b04c2
+MD5sum: f37ebba499a1c8fbc7a9f2b7894dbf59
+SHA1: 196e551503c96c34e13ba3537d9dc7ec92898389
+SHA256: 063038e50ba9044d6a80e530d147aad01a11ed4a4611cf6d4df1e56f871bd051
 Description: Twister computer cores.
 
 Package: twister-console
@@ -37,9 +37,9 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-console_20230505_all.deb
 Size: 5923220
-MD5sum: febbbe3e6411c362c932e04169426af1
-SHA1: f966bcd1c2844943a52c66af3ea61807de700d47
-SHA256: 8247f77f9ae76c7f869ccb4bbeca08199c2d22daee5b66bcfb7ddc364be38c47
+MD5sum: 6aaf53d560526750fcc3def93197a7c5
+SHA1: 35f05e979d92bf1afaae30e30615fb8a186452b7
+SHA256: 1dacc9774559166c10ba59f9bcfec26d6471b5cee4ed28e187485d06895d1318
 Description: Twister console cores.
 
 Package: twister-utils
@@ -48,8 +48,8 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-utils_20230505_all.deb
 Size: 738512
-MD5sum: 01c5113d26e1fc616e062810fe8c4232
-SHA1: ea247ad2ece592819a3f3255abbd346de73256e9
-SHA256: c8c39e198a42a433a3aa19769fe368dd3847efa022e4628928369dac62168774
+MD5sum: d20f700b90cd95149a95410b3296e889
+SHA1: e332bf8c66f048aa4a4f7c5a9f3daca7fdbd9a8e
+SHA256: b0f169b439420181291afc0406ee0664d9683f28c79a02421e155c779347ea50
 Description: Twister utilies cores and ect.
 
