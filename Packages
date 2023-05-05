@@ -20,15 +20,26 @@ SHA1: 866f86d4aec66eac413ef3c28b03ef5db6f2ddc5
 SHA256: c71786d1846ee8e2b92ff883b3f7596072b971c1ce290260d04a908bf9e45676
 Description: Twister arcade cores.
 
+Package: twister-arcade
+Version: 20230507
+Architecture: all
+Maintainer: Cody Travers
+Filename: ./twister-arcade_20230507_all.deb
+Size: 1633884
+MD5sum: e9f4d1ff3a2b520fc1e8c33a394eedb2
+SHA1: b26169ddfd67f81f36dc044a83bbe86ec446bdd6
+SHA256: c72cac36eded03c746c53d3fdebd74b7066abd3ac45252e82c1ed88676cc43f2
+Description: Twister arcade cores.
+
 Package: twister-computer
 Version: 20230505
 Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-computer_20230505_all.deb
 Size: 917844
-MD5sum: f37ebba499a1c8fbc7a9f2b7894dbf59
-SHA1: 196e551503c96c34e13ba3537d9dc7ec92898389
-SHA256: 063038e50ba9044d6a80e530d147aad01a11ed4a4611cf6d4df1e56f871bd051
+MD5sum: a878a0127418aabb1119f130d157921c
+SHA1: 1b443bc3cb597a82b0c32aa513977c785d373669
+SHA256: b7d88a40b6dacc911f54b71ee185e98b221479cad9c83862c1e70cbfb45ff2f6
 Description: Twister computer cores.
 
 Package: twister-console
@@ -37,9 +48,9 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-console_20230505_all.deb
 Size: 5923220
-MD5sum: 6aaf53d560526750fcc3def93197a7c5
-SHA1: 35f05e979d92bf1afaae30e30615fb8a186452b7
-SHA256: 1dacc9774559166c10ba59f9bcfec26d6471b5cee4ed28e187485d06895d1318
+MD5sum: e059228635b5bedf0441d49c0ed79a93
+SHA1: 355591602f9937034f388b7fa1a0b769512a2664
+SHA256: a50e157e4d10241564538e69285733f4d7f411d9e415547b4d6f57337ab30e2c
 Description: Twister console cores.
 
 Package: twister-utils
@@ -48,8 +59,8 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-utils_20230505_all.deb
 Size: 738512
-MD5sum: d20f700b90cd95149a95410b3296e889
-SHA1: e332bf8c66f048aa4a4f7c5a9f3daca7fdbd9a8e
-SHA256: b0f169b439420181291afc0406ee0664d9683f28c79a02421e155c779347ea50
+MD5sum: 0a88e2feec5db5baf1242b77b639e8c3
+SHA1: 8482dfd346dc588ca905a6b851482c435a03e14e
+SHA256: 1cfc3fc0585795a75cfdf1ec469d3dd1d424edfe26e534c415127f668923cd5e
 Description: Twister utilies cores and ect.
 
