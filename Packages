@@ -4,9 +4,9 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-arcade_20230508_all.deb
 Size: 1633884
-MD5sum: d5dcdcb45bba35f8e4999e13510b1aaf
-SHA1: 86e5ab13085c22349d41446ade7f006794a4327e
-SHA256: 6f61168cbceb8508fca6bd25f0b77649dee799d9bbe02adad06fbdd6552bd3ed
+MD5sum: 08e1b7db50a8d25b4c088df03da7dfad
+SHA1: de473c589d48327c4a6f1eac2d8c96a0a38b8522
+SHA256: 1bde57ba1e10e207701b31f185a170f24bc7c5f275e0a0e1bf03612acdc2d7f7
 Description: Twister arcade cores.
 
 Package: twister-computer
@@ -14,10 +14,10 @@ Version: 20230508
 Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-computer_20230508_all.deb
-Size: 917848
-MD5sum: 450ba53e7ab6d2471b125be3937822ee
-SHA1: 9b3b0d808a7b33dd5d81ac2d7877ce22fc4b7042
-SHA256: c835c1153eb824366d4f619e8d411ba8383f6069160f5c4859f2998626710bdc
+Size: 917844
+MD5sum: 32142da69f3e93b71c0aee41e45a1663
+SHA1: eea93225561e8da00cca89f0467f9eec8ae1427d
+SHA256: 545f079e027dc26c87e15c801bbf44d0b48bde65ef0333789539b5c0e614dc13
 Description: Twister computer cores.
 
 Package: twister-console
@@ -26,9 +26,9 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-console_20230508_all.deb
 Size: 5923220
-MD5sum: 8e7c429287e7a5d7ffabcbe15bacd928
-SHA1: 90701bc696b6069a9ab3f1a0e147491e4071b372
-SHA256: 4cb58fcf46d8fbf2e2a08a5d84cc56987e29e4ef34afca1e19a81ee806c4c33f
+MD5sum: 9efdf584f56c55599f43bb39917f5f8c
+SHA1: 883e1078322c4270449a1aa550aa53754687bcd2
+SHA256: 3e204e10fcd7c2e5b0d2888904681403540645a2219d51bc414ef6003129470f
 Description: Twister console cores.
 
 Package: twister-utils
@@ -36,9 +36,9 @@ Version: 20230508
 Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-utils_20230508_all.deb
-Size: 738516
-MD5sum: 95406e6ff0061dbfe6ed50fc2e3cd4fd
-SHA1: 5a5d3c242e149180ea378b2f0617a93a9e3ec1bc
-SHA256: 4a72c5127a4b389316dce6198bed9b0b28c5f7dec5a0915da1b7fbc92ac0365f
+Size: 738864
+MD5sum: 49881677f81eb90000660bf05246f1c6
+SHA1: 438e9658becb3392082e33abb5e3ae4fa9cedaf6
+SHA256: 44bf02bef057653b5e68cef21bc347afaa7a9257f18750758e6f0fe8c0ae42ae
 Description: Twister utilies cores and ect.
 
