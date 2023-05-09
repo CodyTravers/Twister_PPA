@@ -4,9 +4,9 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-arcade_20230509_all.deb
 Size: 1633884
-MD5sum: 27116cf3ddf57357a246a8ac09db5d1c
-SHA1: 8788dccf2db5a811c79dd5fb482b1d18ea86411a
-SHA256: 6ba1c0f2de4babc8341be1b030daa32049f5ff7578bfa805cff5fe8305787a18
+MD5sum: 30c106044fa16d858ebf5529e7d1d785
+SHA1: 300d353929e2cb5185838c8152534402732b635e
+SHA256: bd8bc393c0ba85690fd0d0facad4ad903c3c585c7060cef65c7f444297c26022
 Description: Twister arcade cores.
 
 Package: twister-computer
@@ -15,9 +15,9 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-computer_20230509_all.deb
 Size: 917844
-MD5sum: 5544bdaf118d1fa608833ff3e50cd04d
-SHA1: 664b417df05edf43c4c6c5d892b15efc4f4803f4
-SHA256: 013187b6ac81a25abd442056bc40b5088855f548ccdb88fd1a6f229619297766
+MD5sum: c5352eafd4976acad5be9ce8bd7fe32b
+SHA1: 027174f38f0b8370fa1e4b7a9c808d55f39133e6
+SHA256: 708c00308c4973ba1e6727f181c0cd7703ba0c4e7393b8585aed923a080cd281
 Description: Twister computer cores.
 
 Package: twister-console
@@ -26,9 +26,9 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-console_20230509_all.deb
 Size: 5923220
-MD5sum: d42b6cc115791619dc4165d3dafe7226
-SHA1: 80d14a909a3394be961d65aba89a136bfe184695
-SHA256: 22fe083d2aa77b0695cd2e046e212fb44b0800099fb656eaabddd3520e6a4b6d
+MD5sum: fa212ca42b2c1c7acd6a27cb1888157c
+SHA1: fcdc2eaae2b8d5d5b8f26e284886425439d9c3a7
+SHA256: 36c27c4d6540ac4633115fe7825e4d536e89e840e49be6e925146186bccef5ee
 Description: Twister console cores.
 
 Package: twister-utils
@@ -36,9 +36,9 @@ Version: 20230509
 Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-utils_20230509_all.deb
-Size: 738864
-MD5sum: bad417b3234ddde2525809bfa0d928b9
-SHA1: 8e9fb7d218304f575325989b88cdb23784519702
-SHA256: 1908840caccb0997aa7a57389145ab14c0260f2dce0702e0cd409eac898403d2
+Size: 738768
+MD5sum: 8b470fed74f85dd86c3934a71db80898
+SHA1: 971a7f6cd964719c09e416b3cc3cc29992f63d35
+SHA256: 550bcc1d0f21bca58b59a3c4fba321c298a991a38b3cbcee24d6a95cae2c4911
 Description: Twister utilies cores and ect.
 
