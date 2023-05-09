@@ -1,0 +1,44 @@
+Package: twister-arcade
+Version: 20230509
+Architecture: all
+Maintainer: Cody Travers
+Filename: ./twister-arcade_20230509_all.deb
+Size: 1633884
+MD5sum: a614d46211774c61e70e9d4d75ae5e0f
+SHA1: b1ae99b3a1e2ca1fd8e586b11d8885b28ac08cb0
+SHA256: 39fa5e52675a0e22a66de64c91175bd66612c26fa64ce927a36771997f2e64d1
+Description: Twister arcade cores.
+
+Package: twister-computer
+Version: 20230509
+Architecture: all
+Maintainer: Cody Travers
+Filename: ./twister-computer_20230509_all.deb
+Size: 917844
+MD5sum: 6830226ed0bfdbe2ec224b1352b14960
+SHA1: bc87fd9b4308812a911cdd30aaf3cb0c4db819ac
+SHA256: 0786cc715be56241213617ed1991caca61dbe3420fd4e44e3153472f222d4392
+Description: Twister computer cores.
+
+Package: twister-console
+Version: 20230509
+Architecture: all
+Maintainer: Cody Travers
+Filename: ./twister-console_20230509_all.deb
+Size: 5923220
+MD5sum: b9b7c061138cdd20a9fff237ebca4558
+SHA1: f78fb94bc6aeb569514791b0d5a13afbc2ddb1bf
+SHA256: 09ac0152ea46fcf354b7b8edc670d25be363d8b1103d842ed4f9a814221f32c7
+Description: Twister console cores.
+
+Package: twister-utils
+Version: 20230509
+Architecture: all
+Maintainer: Cody Travers
+Filename: ./twister-utils_20230509_all.deb
+Size: 738860
+MD5sum: 59610b8c6a8bd0b38af75b26f1a37a0d
+SHA1: 4a0fce07da22177c6650cd9f17eca69fef9b17a3
+SHA256: 94bbde350924063c6274f1659f08ec946dd161b949d0e667f996188c29df0989
+Description: Twister utilies cores and ect.
+
