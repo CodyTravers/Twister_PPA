@@ -1,33 +1,44 @@
-Package: twister-computer
-Version: 20230512102900
+Package: twister-arcade
+Version: 20230512103006
 Architecture: all
 Maintainer: Cody Travers
-Filename: ./twister-computer_20230512102900_all.deb
+Filename: ./twister-arcade_20230512103006_all.deb
+Size: 1636664
+MD5sum: 66b16d693d7a6eb7a3ea0498aff378d1
+SHA1: 5608925e940a366daeab1014e1dd135cca081274
+SHA256: bd7223e2d8f29c6ce45449a2618ac6bee0b711c55e5adff6e9a9a045b0cd8310
+Description: Twister arcade cores.
+
+Package: twister-computer
+Version: 20230512103006
+Architecture: all
+Maintainer: Cody Travers
+Filename: ./twister-computer_20230512103006_all.deb
 Size: 917520
-MD5sum: 59541f738311c2e7827891f30b8a9d7e
-SHA1: 88ae574aebcf0d45b0b7fceba2de1a2fbd8a8e5d
-SHA256: 19d0eecda025407ceea4d3ef9125360f33df0579f3d85bd7d96cca0af70036aa
+MD5sum: 53cb188b582eb917980d6607569b9717
+SHA1: c5826a767fb4bbc3f4dfb1ca8a607b810684956a
+SHA256: 7330afd07a83dbf98597f17dc1c893fd021334a1ab5133ab872d7aec10fe184b
 Description: Twister computer cores.
 
 Package: twister-console
-Version: 20230512102900
+Version: 20230512103006
 Architecture: all
 Maintainer: Cody Travers
-Filename: ./twister-console_20230512102900_all.deb
+Filename: ./twister-console_20230512103006_all.deb
 Size: 5923908
-MD5sum: ed974ada4d400077473a46c702a1b8cf
-SHA1: 8f5d839ce5a0e4b4a1a20481f866f1c4cb1879ae
-SHA256: 95ba817141dc8d2b21de98de39bb739b5f665813a8e93a6bd6722ce4f893474e
+MD5sum: acecf121ae2a4c12cb30f3c90b9e84eb
+SHA1: fbb7a8ab71f55a3e3f28cf3a2b0f82dc0e0e6e74
+SHA256: 636e2b259e5ac979c349fa430011d14888df19f24ad0a1e8b7ccd4e3cc5e08ec
 Description: Twister console cores.
 
 Package: twister-utils
-Version: 20230512102900
+Version: 20230512103006
 Architecture: all
 Maintainer: Cody Travers
-Filename: ./twister-utils_20230512102900_all.deb
+Filename: ./twister-utils_20230512103006_all.deb
 Size: 738740
-MD5sum: e7d29235eba375bc880f959f5881077b
-SHA1: ae8a4af2b121e9e600b47f503789962f7db39a57
-SHA256: a41d2b7fe7f386cf3a1bd035caf1d4fe9be3623ab9d374d39f9f50184e1d2111
+MD5sum: f0384c365080b3a2f9b79c12f74239cf
+SHA1: fdbe29ab29ebd40be2ffcf8f97d9a4f6ba2d5958
+SHA256: 67771e4b06c709b6b04f7788ae5ae9adb8ef4d5b5e51a7e3c3c8182e449b8f6a
 Description: Twister utilies cores and ect.
 
