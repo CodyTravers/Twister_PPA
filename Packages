@@ -1,44 +1,44 @@
 Package: twister-arcade
-Version: 20230518075746
+Version: 20230519172403
 Architecture: all
 Maintainer: Cody Travers
-Filename: ./twister-arcade_20230518075746_all.deb
+Filename: ./twister-arcade_20230519172403_all.deb
 Size: 4254112
-MD5sum: 42a5810507c776f5b40f4ef117797925
-SHA1: ff196dcf058215d887b0ece8adbd7680b52d02f2
-SHA256: 6ed5b1f770957190a6b4da9604b88af8edaad96bb211eaa2cf674f9a0bf2a4d6
+MD5sum: 5679ff9cfd2f1202d80ebd30fc078abf
+SHA1: 3b8403af7dee6a3f87c4fd92ccc2b58e42f3a1dc
+SHA256: 074d46c1ec8bd3aed66b2e546a463471383c70a4b0ec248a3dd19102892f0f77
 Description: Twister arcade cores.
 
 Package: twister-computer
-Version: 20230518075746
+Version: 20230519172403
 Architecture: all
 Maintainer: Cody Travers
-Filename: ./twister-computer_20230518075746_all.deb
+Filename: ./twister-computer_20230519172403_all.deb
 Size: 917480
-MD5sum: 99b019921c60469d24a3cfc9b3d6af7a
-SHA1: fce45a5d3056fbd5a98e87367e43612641a63151
-SHA256: 47e588f7dee2addf2752fac67edf72d4bf35356bfde7611aa8f3033ba87be31f
+MD5sum: f588ab556f2f54fe0ac41fc09d9a7c89
+SHA1: 102420c383826c9dc2480cfdc51ce19aa876a3a5
+SHA256: 4a37815d25ebe5e7a944bcbda4d69b8324ea70c5dfdcf72a3269b95d48d700f7
 Description: Twister computer cores.
 
 Package: twister-console
-Version: 20230518075746
+Version: 20230519172403
 Architecture: all
 Maintainer: Cody Travers
-Filename: ./twister-console_20230518075746_all.deb
+Filename: ./twister-console_20230519172403_all.deb
 Size: 5924280
-MD5sum: 93746a7e68fe89ac383581b5aa006e6b
-SHA1: 59660ae5c96364ef0d9ec42f0829f2600939115b
-SHA256: 47aabfe25041ce0a40b23b93b2145f084dfbd542120bd36225c6b4d4397d7c7b
+MD5sum: 89ec345752e12e0806bb797b7ed77b4c
+SHA1: 14a8cecb37cf36a4b742b640a74c61a493fa4836
+SHA256: 2ba1bf9dde020b0455300951b76ec7842246249cdf5984630eb51a79bd51d4b3
 Description: Twister console cores.
 
 Package: twister-utils
-Version: 20230518075746
+Version: 20230519172403
 Architecture: all
 Maintainer: Cody Travers
-Filename: ./twister-utils_20230518075746_all.deb
-Size: 740956
-MD5sum: 9b37da0b92d41aa68ff5a6ecb6e5b9d5
-SHA1: e87fe4d2831a85b3ac971e42b8bfc155452d91eb
-SHA256: 1a619777df663a3b2929edb5c8ede252e29fd1c7da2e1264aaca91105cdbf689
+Filename: ./twister-utils_20230519172403_all.deb
+Size: 740952
+MD5sum: 2cde820eeb831a181358a8c8b3db35b9
+SHA1: e77af2f869327b02a68290196df90652bc51f38b
+SHA256: 89a2bd9505022894c0a643bf6aac11f8e120b00e18f4eb660805ff41f9e4e0e7
 Description: Twister utilies cores and ect.
 
