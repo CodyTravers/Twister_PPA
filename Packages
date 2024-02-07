@@ -4,9 +4,9 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-arcade_20240207_all.deb
 Size: 37424000
-MD5sum: ab93cc0006a631c6e28e4d8214067988
-SHA1: 4a6cfb4e3bbe99c4ea3ddcff6a1b991287dddd24
-SHA256: b166c170ad9962b2e07587d09edea20fab900983b40be09435e047a743174dab
+MD5sum: b8692b6ffdc979b6e3c3581d01343bc7
+SHA1: 7b946637b67476b24a6306fb22bce603210de231
+SHA256: bda97b88ac7699a7fb01674320bb490da0f40534a1306896b37cc978f4557199
 Description: Twister arcade cores.
 
 Package: twister-computer
@@ -15,9 +15,9 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-computer_20240207_all.deb
 Size: 946498
-MD5sum: ea8423733b29408f4912a5ff66ddb747
-SHA1: 1600e6830271ec6973d46fc56bce3ce5618f4cc7
-SHA256: 1681651271047d98f1e2a157bb015cb42fc5bd83130c84418565ea6519e1103f
+MD5sum: b3c8ad1058a35ee26a22a21b5b3397fc
+SHA1: d55bac375150139d5e4305a3e36f809c6b3459db
+SHA256: eea5cf595e5b1bf29602392b267cf16f059d20c9181b0c2a78f38acc40137103
 Description: Twister computer cores.
 
 Package: twister-console
@@ -25,10 +25,10 @@ Version: 20240207
 Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-console_20240207_all.deb
-Size: 6112446
-MD5sum: 125eedb4fd9a024d2776a6d2df35b13d
-SHA1: 917b773202b64b2a38533a297d912d2db8e00b7c
-SHA256: 877c02ca5ba919ec44d053827e866a864877dc0648315ede72c16e1d020e5a70
+Size: 6112448
+MD5sum: bc51c554c19188ceae0f5646581980a2
+SHA1: 7dbff776211c1792ec6d878a080d0aa72445c1f6
+SHA256: 238ec8d1d84f82b0ee6df765ea5db3cc2342f15408c3fe5b0d2ffb7af54548a5
 Description: Twister console cores.
 
 Package: twister-utils
@@ -37,8 +37,8 @@ Architecture: all
 Maintainer: Cody Travers
 Filename: ./twister-utils_20240207_all.deb
 Size: 802082
-MD5sum: 8c42892456f77c5521597a6446d60f77
-SHA1: dfe346ce5483422197373250399036371d546d2d
-SHA256: d7de39be82f00338144468ac71a7bbf6cc56dfe3cda81622461d7f178fefcbc4
+MD5sum: 23ad0816a6c0c655853a914f3140a51d
+SHA1: dc655120ac6a986c80fa020771b353ca3555f03f
+SHA256: b073d567d1ac9d634efbb0b67d97fbb45e0168b0cbde880eae53420522414d57
 Description: Twister utilies cores and ect.
 
